@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <declare-styleable name="mainCustomWidgets">
+        <attr name="MainCustomTypeFace" format="string"/>
+        <attr name="buttonTypeface" format="string"/>
+        <attr name="maxInputLength" format="integer"/>
+        <attr name="minInputLength" format="integer"/>
+        <attr name="maskingEnabled" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>
